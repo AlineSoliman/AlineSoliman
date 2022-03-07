@@ -1,4 +1,4 @@
-### Hi 👋
+### Olá 👋
 Sou a Aline Soliman, 
 🌱 atualmente estudo Desenvolvimento Web na Trybe.
 
