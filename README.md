@@ -1,6 +1,7 @@
 ### Olá 👋
 - Sou a Aline Soliman.
 - 🌱 atualmente estudo Desenvolvimento Web na Trybe.
+- heavy_check_mark
 
 <!--
 **AlineSoliman/AlineSoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
