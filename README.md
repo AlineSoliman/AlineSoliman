@@ -1,6 +1,6 @@
 ### Olá 👋
 - Sou a Aline Soliman.
-- 🌱 atualmente estudo Desenvolvimento Web na Trybe.
+- 🌱 atualmente estudo Desenvolvimento de Software na Trybe.
 - :heavy_check_mark: Fundamentos do Desenvolvimento Web
 - :hourglass:Desenvolvimento Front-end
 - :hourglass_flowing_sand:Desenvolvimento Back-end
