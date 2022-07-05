@@ -1,8 +1,8 @@
 ### Olá 👋
 - Sou a Aline Soliman.
 - 🌱 atualmente estudo Desenvolvimento de Software na Trybe.
-- :heavy_check_mark: Fundamentos do Desenvolvimento Web
-- :hourglass:Desenvolvimento Front-end
+- ✅ Fundamentos do Desenvolvimento Web (Unix & Bash, Git, JS básico & DOM, HTML & CSS, JS ES6, Higher Order Functions e Testes Unitários)
+- ✅ Desenvolvimento Front-end (React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Testes com RTL, Redux com React, Context API e React Hooks)
 - :hourglass_flowing_sand:Desenvolvimento Back-end
 - :hourglass_flowing_sand:Ciência da Computação
 
