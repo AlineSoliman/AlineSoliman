@@ -2,14 +2,6 @@
 - Sou a Aline Soliman.
 - 🌱 atualmente estudo Desenvolvimento de Software na Trybe.
 
-- ✅ Fundamentos do Desenvolvimento Web (Unix & Bash, Git, JS básico & DOM, HTML & CSS, JS ES6, Higher Order Functions e Testes Unitários)
-
-- ✅ Desenvolvimento Front-end (React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Testes com RTL, Redux com React, Context API e React Hooks)
-
-- :hourglass_flowing_sand:Desenvolvimento Back-end
-
-- :hourglass_flowing_sand:Ciência da Computação
-
 <!--
 **AlineSoliman/AlineSoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
