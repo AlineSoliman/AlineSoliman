@@ -1,6 +1,5 @@
 ### Olá 👋
 - Sou a Aline Soliman.
-- 🌱 atualmente estudo Desenvolvimento de Software na Trybe.
 
 <!--
 **AlineSoliman/AlineSoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
